@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Илья Кармаев](https://up.htmlacademy.ru/adaptive/20/user/190018).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Островский](https://htmlacademy.ru/profile/grandmaus).
 
 ---
 
